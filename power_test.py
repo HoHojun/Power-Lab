@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print('It is test file to study git hub')
+    print([1,2,3,4,5])
